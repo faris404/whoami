@@ -1,25 +1,3 @@
-
-// const bootLines = [
-//   "Booting /dev/faris... 🔌",
-//   "Initializing Coffee Protocol v2.0... ☕",
-//   "Mounting /brain/modules/data_engineer.so... 🧠",
-//   "Launching notavirus.exe... definitely safe ✅",
-//   "sudo faris --start 🚀",
-//   "Warming up the ETL engine... 🔧",
-//   "Loading .bash_farishistory (brace yourself)... 📜"
-// ];
-
-// document.addEventListener("DOMContentLoaded", () => {
-//   const bootElement = document.querySelector(".boot");
-//   if (bootElement) {
-//     const line = bootLines[Math.floor(Math.random() * bootLines.length)];
-//     bootElement.innerHTML = line;
-//   }
-
-//   console.log("faris.js: initialized with maximum sarcasm and minimal bugs.");
-// });
-
-
 const bootLines = [
   "Booting /dev/faris... 🔌",
   "Initializing Coffee Protocol v2.0... ☕",
